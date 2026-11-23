@@ -1,0 +1,37 @@
+The Calculuxe License
+
+Version: 1.0
+Date Written: 11/23/2026
+
+General Rules
+Any software under this license can be distributed freely by anyone without any cost if the distributor follows these rules:
+
+1. The Distributor provides a link to the source code and the official repository on request.
+2. The Distributor does not distribute malware  along with the software in question.
+3. The Distributor does not “gatekeep” or charge money for the software in question or any of its components.
+4. The Distributor does not intentionally lie or falsely advertise the software’s functionality (Unless it is for a joke and is harmless)
+
+Additionally, any software under this license can be modified/forked freely by anyone without any cost if the distributor of the modified software follows these rules:
+
+1. The License for the original software under this license is inherited to the forked software.
+2. The Distributor does not “gatekeep” or charge money for this new software.
+3. The Distributor makes their source code easily accessible for the public for free, preferably in the new repository.
+4. The Distributor provides the link to view/download the original software that they forked from.
+5. The Distributor does not make a proprietary extension pack for the software or try to make it proprietary in any way.
+6. The Distributor adds malware (which includes spyware and adware) unless it’s for educational purposes and it is clearly states, and with warnings to only use in virtual machines.
+7. The Distributor does not fork or modify this license.
+
+Private Use and Software Owner Rules
+
+The software owner is defined as whoever releases it or owns the repository for it.
+
+Anyone can use this license for their software if they follow these rules:
+1. The Software Owner does not charge for the software or its components.
+2. The Software Owner makes their source code easily accessible for the public for free, preferably in the software’s repository.
+3. The Software Owner does not make the software and its components proprietary or make a proprietary extension pack for the software.
+4. The software does not contain malware (which includes spyware and adware) unless it’s for educational purposes and it is clearly states, and with warnings to only use in virtual machines.
+5. The Software Owner does not fork or modify this license
+
+These rules do not have to be followed if the software is private and internal for an individual or a small business. However, businesses may have to donate or pay a fee to fork software internally if the owner of the original software under this license decides so. However, this only applies to businesses, and individuals cannot be required to pay or donate to modify this software for personal use.
+
+Additionally, the software owner cannot charge for a user to download the software, but they can sell physical media of the software, as long as there are no differences between the physical release and the digital release. Also, the software owner cannot release a “premium” or a “pro” version of the software with additional features for a fee.
